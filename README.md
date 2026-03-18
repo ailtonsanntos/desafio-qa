@@ -6,7 +6,7 @@ Este projeto tem como foco o aprendizado e a aplicação de boas práticas em **
 # 🎯 Objetivo do Projeto
 
 Demonstrar a implementação de uma suíte de testes robusta utilizando o padrão **Page Object Model (POM)**, cobrindo fluxos críticos de um e-commerce (SauceDemo).
----
+
 
 ## 🚀 Tecnologias Utilizadas
 
