@@ -9,10 +9,10 @@ O objetivo deste repositório é demonstrar a implementação de um framework de
 * **Metodologia**: Uso de **BDD (Behavior Driven Development)** com escrita de cenários em **Gherkin** para garantir a rastreabilidade dos requisitos.
 
 ## 🛠️ Tecnologias Utilizadas
-* **Playwright**: Framework principal para automação E2E.
-* **JavaScript / Node.js**: Linguagem e ambiente de execução.
-* **Page Objects Model (POM)**: Padrão de projeto para garantir a manutenção e reuso do código.
-* **Allure Report**: Integração para geração de relatórios de testes detalhados.
+
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🚀 Status do Projeto e Roadmap
 
