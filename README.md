@@ -40,3 +40,11 @@ O objetivo deste repositório é demonstrar a implementação de um framework de
 ├── pages/              # Implementação do padrão Page Objects (POM)
 ├── playwright.config.js # Configurações globais do framework
 └── package.json        # Gerenciamento de dependências e scripts
+```
+
+## ✅ Cobertura de Testes
+
+### `purchase.spec.js` — Login (SauceDemo)
+- Acessa a página de login do SauceDemo
+- Realiza login com usuário e senha válidos
+- Valida que o título da seção "Products" está visível após login
